@@ -4,3 +4,5 @@ matplotlib
 scipy
 IPython
 ipykernel
+scikit-learn
+rich

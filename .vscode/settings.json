@@ -1,12 +1,20 @@
 {
   "cSpell.words": [
     "arcsin",
+    "axhline",
     "figsize",
+    "hlines",
     "linestyle",
     "markersize",
+    "ndarray",
     "polt",
     "xaxis",
+    "xlabel",
     "yaxis",
-    "подгоняний"
-  ]
+    "ylabel",
+    "ylim",
+    "подгоняний",
+    "Фраунгофера"
+  ],
+  "jupyter.themeMatplotlibPlots": false,
 }
