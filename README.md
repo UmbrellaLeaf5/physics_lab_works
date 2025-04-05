@@ -13,6 +13,7 @@
 * [Черных В.](https://github.com/737CMD) (отдельная папка с сабмодулями по лабам 3, 4 семестров, оформленных в Jupyter Notebook)
 * [Николаев И.](https://github.com/Igggor) (оформленные Python обработки лаб первого курса)
 * [Микишева М.](https://github.com/marymikkey) (письменные оформления множества лаб разных семестров)
+* [Баранчугов М.](https://github.com/BraveCactus) (отдельный сабмодуль по лабам 4 семестра, оформленных в Jupyter Notebook)
 * [Фазлыев Н.](https://github.com/Lynech) (лаба 4.3.1. в Jupyter Notebook из 4 семестра)
 * [Криворучко Д.](https://github.com/UmbrellaLeaf5) (*[всё остальное]*)
 
