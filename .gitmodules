@@ -4,3 +4,6 @@
 [submodule "Chernykh_V_V/4_sem"]
 	path = Chernykh_V_V/4_sem
 	url = https://github.com/737CMD/Labs_Optics
+[submodule "Baranchugov_M_E"]
+	path = Baranchugov_M_E
+	url = https://github.com/BraveCactus/Laboratory_works
