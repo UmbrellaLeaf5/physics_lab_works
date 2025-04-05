@@ -8,6 +8,14 @@
 
 В целях облегчения этой задачи тут также содержатся методические материалы (лабники, рекомендации и т.п.), которые находятся в папках `methodological_manuals` каждого семестра.
 
+## Authors and Collaborators:
+
+* [Черных В.](https://github.com/737CMD) (отдельная папка с сабмодулями по лабам 3, 4 семестров, оформленных в Jupyter Notebook)
+* [Николаев И.](https://github.com/Igggor) (оформленные Python обработки лаб первого курса)
+* [Микишева М.](https://github.com/marymikkey) (письменные оформления множества лаб разных семестров)
+* [Фазлыев Н.](https://github.com/Lynech) (лаба 4.3.1. в Jupyter Notebook из 4 семестра)
+* [Криворучко Д.](https://github.com/UmbrellaLeaf5) (*[всё остальное]*)
+
 ## Sources
 
 General MIPT lab works archive: https://github.com/BlackSamorez/mipt_lab
@@ -25,7 +33,7 @@ General MIPT lab works archive: https://github.com/BlackSamorez/mipt_lab
     Перейдите в директорию, куда был клонирован репозиторий:
 
     ```bash
-    cd math_statistics
+    cd physics_lab_works
     ``` 
 
 
