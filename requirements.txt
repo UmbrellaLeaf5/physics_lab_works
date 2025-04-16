@@ -5,4 +5,5 @@ scipy
 IPython
 ipykernel
 scikit-learn
+statsmodels
 rich
