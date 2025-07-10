@@ -163,3 +163,8 @@ cython_debug/
 
 temp.*
 .~*
+
+
+# macOS
+.DS_Store
+*/.DS_Store
