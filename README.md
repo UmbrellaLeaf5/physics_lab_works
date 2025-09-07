@@ -8,14 +8,17 @@
 
 В целях облегчения этой задачи тут также содержатся методические материалы (лабники, рекомендации и т.п.), которые находятся в папках `methodological_manuals` каждого семестра.
 
+Удачи и успехов в учении!
+
 ## Authors and Collaborators:
 
-* [Черных В.](https://github.com/737CMD) (отдельная папка с сабмодулями по лабам 3, 4 семестров, оформленных в Jupyter Notebook)
-* [Николаев И.](https://github.com/Igggor) (оформленные Python обработки лаб первого курса)
-* [Микишева М.](https://github.com/marymikkey) (письменные оформления множества лаб разных семестров)
-* [Баранчугов М.](https://github.com/BraveCactus) (отдельный сабмодуль по лабам 4 семестра, оформленных в Jupyter Notebook)
-* [Фазлыев Н.](https://github.com/Lynech) (лаба 4.3.1. в Jupyter Notebook из 4 семестра)
-* [Криворучко Д.](https://github.com/UmbrellaLeaf5) (*[всё остальное]*)
+- [Черных В.](https://github.com/737CMD) (отдельная папка с сабмодулями по лабам 3, 4 семестров, оформленных в Jupyter Notebook)
+- [Николаев И.](https://github.com/Igggor) (оформленные Python обработки лаб первого курса)
+- [Микишева М.](https://github.com/marymikkey) (письменные оформления множества лаб разных семестров)
+- [Жук Е.](https://t.me/Elizabeth_Zhuk) (многие лабы всех 5 семестров)
+- [Баранчугов М.](https://github.com/BraveCactus) (отдельный сабмодуль по лабам 4 семестра, оформленных в Jupyter Notebook)
+- [Фазлыев Н.](https://github.com/Lynech) (лаба 4.3.1. в Jupyter Notebook из 4 семестра)
+- [Криворучко Д.](https://github.com/UmbrellaLeaf5) (_[всё остальное]_)
 
 ## Sources
 
@@ -26,7 +29,7 @@ General MIPT lab works archive: https://github.com/BlackSamorez/mipt_lab
 0.  **Клонирование репозитория:**
 
     Перед тем как начать, вам необходимо клонировать репозиторий с исходным кодом проекта.
- 
+
     ```bash
     git clone https://github.com/UmbrellaLeaf5/physics_lab_works.git
     ```
@@ -35,8 +38,7 @@ General MIPT lab works archive: https://github.com/BlackSamorez/mipt_lab
 
     ```bash
     cd physics_lab_works
-    ``` 
-
+    ```
 
 1.  **Создание виртуального окружения:**
 
@@ -52,34 +54,32 @@ General MIPT lab works archive: https://github.com/BlackSamorez/mipt_lab
     python -m venv .venv
     ```
 
-    *   Если у вас установлена только версия `Python 3`, можете использовать `python` вместо `python3`.
-    *   Если виртуальное окружение уже существует (вы его создавали ранее), пропустите этот шаг.
-
+    - Если у вас установлена только версия `Python 3`, можете использовать `python` вместо `python3`.
+    - Если виртуальное окружение уже существует (вы его создавали ранее), пропустите этот шаг.
 
 2.  **Активация виртуального окружения:**
 
     Активируйте виртуальное окружение, чтобы `Python` использовал библиотеки, установленные внутри него:
 
-    *   **Linux/macOS:**
+    - **Linux/macOS:**
 
-        ```bash
-        source .venv/bin/activate
-        ```
+      ```bash
+      source .venv/bin/activate
+      ```
 
-    *   **Windows (Command Prompt):**
+    - **Windows (Command Prompt):**
 
-        ```cmd
-        .venv\Scripts\activate
-        ```
+      ```cmd
+      .venv\Scripts\activate
+      ```
 
-    *   **Windows (PowerShell):**
+    - **Windows (PowerShell):**
 
-        ```powershell
-        .venv\Scripts\Activate.ps1
-        ```
+      ```powershell
+      .venv\Scripts\Activate.ps1
+      ```
 
     После активации вы увидите `(.venv)` в начале строки терминала, указывающее на то, что виртуальное окружение активно.
-
 
 3.  **Установка зависимостей из `requirements.txt`:**
 
