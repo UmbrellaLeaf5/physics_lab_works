@@ -4,6 +4,7 @@ matplotlib
 scipy
 IPython
 ipykernel
+jupyter
 scikit-learn
 statsmodels
 rich
