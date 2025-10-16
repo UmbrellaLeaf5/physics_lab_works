@@ -13,7 +13,7 @@
 ## Authors and Collaborators:
 
 - [Черных В.](https://github.com/737CMD) (отдельная папка с сабмодулями по лабам 3, 4 семестров, оформленных в Jupyter Notebook)
-- [Николаев И.](https://github.com/Igggor) (оформленные Python обработки лаб первого курса)
+- [Николаев И.](https://github.com/Igggor) (оформленные Python обработки лаб первого и второго курса)
 - [Микишева М.](https://github.com/marymikkey) (письменные оформления множества лаб разных семестров)
 - [Жук Е.](https://t.me/Elizabeth_Zhuk) (многие лабы всех 5 семестров)
 - [Баранчугов М.](https://github.com/BraveCactus) (отдельный сабмодуль по лабам 4 семестра, оформленных в Jupyter Notebook)
